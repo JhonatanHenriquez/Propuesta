@@ -1,5 +1,5 @@
 function si() {
-    alert('Ahora ya somos novios bb 🧡🥰🥰')
+    alert('Ahora ya somos novios bb 🥰🥰')
 }
 function mover() {
     width = window.innerWidth;
